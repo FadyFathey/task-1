@@ -1,0 +1,231 @@
+.questions
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.side-bar
+{
+    width: 117.86px;
+    height: 3100.31px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+    align-items: center;
+    padding: 24px;
+    color: #000000;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.05);
+    position: relative;
+    left: 6px;
+}
+.logo
+{
+    width: 47px;
+    height: 45.81px;
+    background-color: #1D4ED8;
+    color: white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 818px;
+}
+.first-ic
+{
+    width: 22px;
+    height: 18.52px;
+}
+
+.side-bar img
+{
+    width: 36px;
+    height: 35.09px;
+}
+.body
+{
+    width: 1396px;
+    height: 129px;
+    box-shadow: -10px -1px 16px -3px rgba(0,0,0,0.1);
+    margin-top: 122px;
+    border-radius: 9px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    -ms-border-radius: 9px;
+    -o-border-radius: 9px;
+    display: flex;
+}
+
+.first-sec
+{
+    width: 344px;
+    height: 130px;
+    color: #000000;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+}
+
+.sec-sec
+{
+    width: 344px;
+    height: 130px;
+    background-color: #00635B;
+    color: white;
+    position: relative;
+}
+
+.sec-sec:after {
+    content: " ";
+    position: absolute;
+    right: -13px;
+    top: 53px;
+    border-top: 15px solid transparent;
+    border-right: none;
+    border-left: 15px solid #00635B;;
+    border-bottom: 15px solid transparent;
+  }
+  .sec-sec span
+  {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 56px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .b-line
+  {
+    height: 78px;
+    background-color: #C4C4C4;
+    width: 1px;
+    margin-top: 30px;
+  }
+
+  .last span
+  {
+    width: 423px;
+    margin-left: -155px;
+  }
+
+  .upload-img
+  {
+    width: 595px;
+    height: 408px;
+    background-color: white;
+    position: absolute;
+    left: 184px;
+    top: 365px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    box-shadow: 0 3px 15px 10px rgba(0,0,0,0.1);
+}
+  .img-header
+  {
+    width: 100%;
+    background-color: #D0F7FA;
+    height: 77.44px;
+    border-radius: 20px 20px 0 0;
+    -webkit-border-radius: 20px 20px 0 0;
+    -moz-border-radius: 20px 20px 0 0;
+    -ms-border-radius: 20px 20px 0 0;
+    -o-border-radius: 20px 20px 0 0;
+}
+.img-header span
+{
+    position: absolute;
+    top: 29px;
+    left: 43px;
+    font-size: 25px;
+    font-weight:600;
+    color: #000000;
+}
+
+.dotted-box
+{
+    width: 512px;
+    height: 210px;
+    border: 1.6px dotted #000000;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 46px;
+    margin-left: 40px;
+}
+.dotted-box img
+{
+    max-width: 33px;
+    max-height: 33px;
+    object-fit: cover;
+}
+.dot-content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 56px;
+    gap: 17px;
+}
+.up-text
+{
+    font-size: 14px;
+    color: #000000;
+    font-weight: 600;
+}
+.up-details
+{
+    color:  #979797;
+    font-size: 14px;
+    font-weight: 500;
+}
+.personal-inf
+{
+    width: 595px;
+    height: 981px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    box-shadow: 0 3px 15px 10px rgba(0,0,0,0.1);
+    position: absolute;
+    left: 184px;
+    top: 841px;
+}
+.modify
+{
+    height: 93px;
+}
+.first-name
+{
+    width: 593px;
+    height: 87px;
+    position: relative;
+    top: 90px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.line
+{
+    width: 517px;
+    background-color: #C4C4C4;
+    height: 1px;
+    margin-top: 90px;
+    margin-left: 30px;
+}
